@@ -32,7 +32,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <body>
   <!-- Fixed Navbar -->
   <header class="navbar">
-    <div class="logo">🛍️ Smart Retail System</div>
+    <div class="logo"> Smart Retail System</div>
     <nav>
       <ul class="nav-links">
         <li><a href="php/Customer_Shop.php">Continue as Customer</a></li>
